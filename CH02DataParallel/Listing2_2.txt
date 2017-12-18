@@ -1,0 +1,20 @@
+FIRST TIME
+----------
+Ellipses converted.
+Rectangles converted.
+Lines converted.
+Text converted.
+
+SECOND TIME
+-----------
+Ellipses converted.
+Lines converted.
+Rectangles converted.
+Text converted.
+
+THIRD TIME
+----------
+Ellipses converted.
+Lines converted.
+Text converted.
+Rectangles converted.

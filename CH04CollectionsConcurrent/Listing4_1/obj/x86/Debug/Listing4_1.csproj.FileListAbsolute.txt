@@ -1,0 +1,7 @@
+C:\Wrox\495995_CODE\CH04\Listing4_1\Listing4_1\bin\Debug\Listing4_1.exe
+C:\Wrox\495995_CODE\CH04\Listing4_1\Listing4_1\bin\Debug\Listing4_1.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_1\Listing4_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH04\Listing4_1\Listing4_1\obj\x86\Debug\Listing4_1.exe
+C:\Wrox\495995_CODE\CH04\Listing4_1\Listing4_1\obj\x86\Debug\Listing4_1.pdb
+E:\vscode\C#ParallelProgramming _CODE\CH04CollectionsConcurrent\Listing4_1\obj\x86\Debug\Listing4_1.exe
+E:\vscode\C#ParallelProgramming _CODE\CH04CollectionsConcurrent\Listing4_1\obj\x86\Debug\Listing4_1.pdb

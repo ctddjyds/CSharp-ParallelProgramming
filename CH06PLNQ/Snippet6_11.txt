@@ -1,0 +1,3 @@
+var centerLocations = GenerateCenterLocations();
+var complexGeometryBag = new ConcurrentBag<ComplexGeometry>();
+centerLocations.ForAll((e) => complexGeometryBag.Add(ExecuteStages(e)));

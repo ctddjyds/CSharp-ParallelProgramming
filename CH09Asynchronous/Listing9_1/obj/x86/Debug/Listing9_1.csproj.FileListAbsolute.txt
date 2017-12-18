@@ -1,0 +1,28 @@
+C:\ParallelProgramming\Listing9_1\Listing9_1\bin\Debug\Listing9_1.exe
+C:\ParallelProgramming\Listing9_1\Listing9_1\bin\Debug\Listing9_1.pdb
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\MainWindow.baml
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\MainWindow.g.cs
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\App.g.cs
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1_MarkupCompile.cache
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.g.resources
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.Properties.Resources.resources
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.exe
+C:\ParallelProgramming\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.pdb
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.exe
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.pdb
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\bin\Debug\Listing9_1.exe
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\bin\Debug\Listing9_1.pdb
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\MainWindow.baml
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\MainWindow.g.cs
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\App.g.cs
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1_MarkupCompile.cache
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.g.resources
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\Listing9_1.Properties.Resources.resources
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wrox\495995_CODE\CH09\Listing9_1\Listing9_1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vscode\C#ParallelProgramming _CODE\CH09Asynchronous\Listing9_1\obj\x86\Debug\Listing9_1.exe
+E:\vscode\C#ParallelProgramming _CODE\CH09Asynchronous\Listing9_1\obj\x86\Debug\Listing9_1.pdb

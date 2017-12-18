@@ -1,0 +1,39 @@
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\MainWindow.baml
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\MainWindow.g.cs
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\App.g.cs
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11_MarkupCompile.cache
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.g.resources
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.Properties.Resources.resources
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\bin\Debug\Listing4_11.exe
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\bin\Debug\Listing4_11.pdb
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.exe
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.pdb
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.exe
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.pdb
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\MainWindow.baml
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\MainWindow.g.cs
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\App.g.cs
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11_MarkupCompile.cache
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.g.resources
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.Properties.Resources.resources
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ParallelProgramming\Listing4_11\Listing4_11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ParallelProgramming\Listing4_11\Listing4_11\bin\Debug\Listing4_11.exe
+C:\ParallelProgramming\Listing4_11\Listing4_11\bin\Debug\Listing4_11.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.exe
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\bin\Debug\Listing4_11.exe
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\bin\Debug\Listing4_11.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\MainWindow.baml
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\MainWindow.g.cs
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\App.g.cs
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11_MarkupCompile.cache
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.g.resources
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\Listing4_11.Properties.Resources.resources
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wrox\495995_CODE\CH04\Listing4_11\Listing4_11\obj\x86\Debug\GenerateResource.write.1.tlog

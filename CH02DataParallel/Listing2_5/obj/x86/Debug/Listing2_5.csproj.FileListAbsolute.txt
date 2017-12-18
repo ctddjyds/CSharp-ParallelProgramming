@@ -1,0 +1,10 @@
+C:\Wrox\495995_CODE\CH02\Listing2_5\Listing2_5\bin\Debug\Listing2_5.exe
+C:\Wrox\495995_CODE\CH02\Listing2_5\Listing2_5\bin\Debug\Listing2_5.pdb
+C:\Wrox\495995_CODE\CH02\Listing2_5\Listing2_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH02\Listing2_5\Listing2_5\obj\x86\Debug\Listing2_5.exe
+C:\Wrox\495995_CODE\CH02\Listing2_5\Listing2_5\obj\x86\Debug\Listing2_5.pdb
+D:\C#\C#并行编程高级教程_CODE\CH02\Listing2_5\bin\Debug\Listing2_5.exe
+D:\C#\C#并行编程高级教程_CODE\CH02\Listing2_5\bin\Debug\Listing2_5.pdb
+D:\C#\C#并行编程高级教程_CODE\CH02\Listing2_5\obj\x86\Debug\Listing2_5.csprojResolveAssemblyReference.cache
+D:\C#\C#并行编程高级教程_CODE\CH02\Listing2_5\obj\x86\Debug\Listing2_5.exe
+D:\C#\C#并行编程高级教程_CODE\CH02\Listing2_5\obj\x86\Debug\Listing2_5.pdb

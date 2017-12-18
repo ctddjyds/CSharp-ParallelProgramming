@@ -1,0 +1,12 @@
+C:\ParallelProgramming\Listing5_1\Listing5_1\bin\Debug\Listing5_1.exe
+C:\ParallelProgramming\Listing5_1\Listing5_1\bin\Debug\Listing5_1.pdb
+C:\ParallelProgramming\Listing5_1\Listing5_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ParallelProgramming\Listing5_1\Listing5_1\obj\x86\Debug\Listing5_1.exe
+C:\ParallelProgramming\Listing5_1\Listing5_1\obj\x86\Debug\Listing5_1.pdb
+C:\Wrox\495995_CODE\CH05\Listing5_1\Listing5_1\obj\x86\Debug\Listing5_1.exe
+C:\Wrox\495995_CODE\CH05\Listing5_1\Listing5_1\obj\x86\Debug\Listing5_1.pdb
+C:\Wrox\495995_CODE\CH05\Listing5_1\Listing5_1\bin\Debug\Listing5_1.exe
+C:\Wrox\495995_CODE\CH05\Listing5_1\Listing5_1\bin\Debug\Listing5_1.pdb
+C:\Wrox\495995_CODE\CH05\Listing5_1\Listing5_1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vscode\C#ParallelProgramming _CODE\CH05CoordinationDataSructures\Listing5_1\obj\x86\Debug\Listing5_1.exe
+E:\vscode\C#ParallelProgramming _CODE\CH05CoordinationDataSructures\Listing5_1\obj\x86\Debug\Listing5_1.pdb

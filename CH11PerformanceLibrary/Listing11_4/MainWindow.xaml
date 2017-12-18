@@ -1,0 +1,15 @@
+﻿<Window x:Class="Listing11_4.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Calling Intel Performance Primitives Routines" 
+ Height="436" Width="574">
+    <Grid>
+        <Button Content="Apply Sobel Filter Vertical" 
+                Height="41" HorizontalAlignment="Left" 
+                Margin="12,12,0,0" Name="butProcessImage" 
+                VerticalAlignment="Top" Width="218" 
+                Click="butProcessImage_Click" />
+        <Image Margin="12,59,12,12" 
+               Name="imgProcessedImage" Stretch="Fill" />
+    </Grid>
+</Window>

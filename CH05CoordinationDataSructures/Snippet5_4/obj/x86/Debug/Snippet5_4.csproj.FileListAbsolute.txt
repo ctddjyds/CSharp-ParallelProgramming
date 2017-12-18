@@ -1,0 +1,10 @@
+C:\ParallelProgramming\Snippet5_4\Snippet5_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ParallelProgramming\Snippet5_4\Snippet5_4\bin\Debug\Snippet5_4.exe
+C:\ParallelProgramming\Snippet5_4\Snippet5_4\bin\Debug\Snippet5_4.pdb
+C:\ParallelProgramming\Snippet5_4\Snippet5_4\obj\x86\Debug\Snippet5_4.exe
+C:\ParallelProgramming\Snippet5_4\Snippet5_4\obj\x86\Debug\Snippet5_4.pdb
+C:\Wrox\495995_CODE\CH05\Snippet5_4\Snippet5_4\obj\x86\Debug\Snippet5_4.exe
+C:\Wrox\495995_CODE\CH05\Snippet5_4\Snippet5_4\obj\x86\Debug\Snippet5_4.pdb
+C:\Wrox\495995_CODE\CH05\Snippet5_4\Snippet5_4\bin\Debug\Snippet5_4.exe
+C:\Wrox\495995_CODE\CH05\Snippet5_4\Snippet5_4\bin\Debug\Snippet5_4.pdb
+C:\Wrox\495995_CODE\CH05\Snippet5_4\Snippet5_4\obj\x86\Debug\ResolveAssemblyReference.cache

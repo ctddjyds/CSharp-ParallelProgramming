@@ -1,0 +1,18 @@
+var t1 = Task.Factory.StartNew(() => TaskMethod1());
+var t2 = t1.ContinueWith((t) => TaskMethod2(t));
+var t3 = t1.ContinueWith((t) => TaskMethod3(t));
+var t4 = t1.ContinueWith((t) => TaskMethod4(t));
+var t5 = t1.ContinueWith((t) => TaskMethod5(t));
+Task.WaitAll(t2, t3, t4, t5);
+// **** This code is a critical section
+// Sequential code running in the main thread
+var myNewList = new List<String>();
+// Fill myNewList with values based on all the work done by the previous tasks
+// **** End of critical section
+var t6 = Task<List<String>>.Factory.StartNew(() => TaskMethod6(myNewList));
+var t7 = t6.ContinueWith((t) => TaskMethod7(t));
+var t8 = t6.ContinueWith((t) => TaskMethod8(t));
+Task.WaitAll(t7, t8);
+// **** This code is a critical section
+// Sequential code running in the main thread
+// **** End of critical section

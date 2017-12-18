@@ -1,0 +1,12 @@
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_1\Listing6_1\bin\Debug\Listing6_1.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_1\Listing6_1\bin\Debug\Listing6_1.pdb
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_1\Listing6_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_1\Listing6_1\obj\x86\Debug\Listing6_1.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_1\Listing6_1\obj\x86\Debug\Listing6_1.pdb
+C:\Wrox\495995_CODE\CH06\Listing6_1\Listing6_1\obj\x86\Debug\Listing6_1.exe
+C:\Wrox\495995_CODE\CH06\Listing6_1\Listing6_1\obj\x86\Debug\Listing6_1.pdb
+C:\Wrox\495995_CODE\CH06\Listing6_1\Listing6_1\bin\Debug\Listing6_1.exe
+C:\Wrox\495995_CODE\CH06\Listing6_1\Listing6_1\bin\Debug\Listing6_1.pdb
+C:\Wrox\495995_CODE\CH06\Listing6_1\Listing6_1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vscode\C#ParallelProgramming _CODE\CH06PLNQ\Listing6_1\obj\x86\Debug\Listing6_1.exe
+E:\vscode\C#ParallelProgramming _CODE\CH06PLNQ\Listing6_1\obj\x86\Debug\Listing6_1.pdb

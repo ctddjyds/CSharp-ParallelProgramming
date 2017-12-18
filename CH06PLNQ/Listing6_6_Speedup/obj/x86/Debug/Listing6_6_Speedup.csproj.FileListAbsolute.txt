@@ -1,0 +1,5 @@
+C:\Wrox\495995_CODE\CH06\Listing6_6_Speedup\Listing6_6_Speedup\bin\Debug\Listing6_6_Speedup.exe
+C:\Wrox\495995_CODE\CH06\Listing6_6_Speedup\Listing6_6_Speedup\bin\Debug\Listing6_6_Speedup.pdb
+C:\Wrox\495995_CODE\CH06\Listing6_6_Speedup\Listing6_6_Speedup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH06\Listing6_6_Speedup\Listing6_6_Speedup\obj\x86\Debug\Listing6_6_Speedup.exe
+C:\Wrox\495995_CODE\CH06\Listing6_6_Speedup\Listing6_6_Speedup\obj\x86\Debug\Listing6_6_Speedup.pdb

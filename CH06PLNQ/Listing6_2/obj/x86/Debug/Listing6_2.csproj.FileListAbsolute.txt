@@ -1,0 +1,10 @@
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_2\Listing6_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_2\Listing6_2\bin\Debug\Listing6_2.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_2\Listing6_2\bin\Debug\Listing6_2.pdb
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_2\Listing6_2\obj\x86\Debug\Listing6_2.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_2\Listing6_2\obj\x86\Debug\Listing6_2.pdb
+C:\Wrox\495995_CODE\CH06\Listing6_2\Listing6_2\obj\x86\Debug\Listing6_2.exe
+C:\Wrox\495995_CODE\CH06\Listing6_2\Listing6_2\obj\x86\Debug\Listing6_2.pdb
+C:\Wrox\495995_CODE\CH06\Listing6_2\Listing6_2\bin\Debug\Listing6_2.exe
+C:\Wrox\495995_CODE\CH06\Listing6_2\Listing6_2\bin\Debug\Listing6_2.pdb
+C:\Wrox\495995_CODE\CH06\Listing6_2\Listing6_2\obj\x86\Debug\ResolveAssemblyReference.cache

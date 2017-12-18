@@ -1,0 +1,28 @@
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\MainWindow.baml
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\MainWindow.g.cs
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\App.g.cs
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4_MarkupCompile.cache
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.g.resources
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.Properties.Resources.resources
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ParallelProgramming\Listing11_4\Listing11_4\bin\Debug\Listing11_4.exe
+C:\ParallelProgramming\Listing11_4\Listing11_4\bin\Debug\Listing11_4.pdb
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.exe
+C:\ParallelProgramming\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.pdb
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.exe
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.pdb
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\bin\Debug\Listing11_4.exe
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\bin\Debug\Listing11_4.pdb
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\MainWindow.baml
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\MainWindow.g.cs
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\App.g.cs
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4_MarkupCompile.cache
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.g.resources
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\Listing11_4.Properties.Resources.resources
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wrox\495995_CODE\CH11\Listing11_4\Listing11_4\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vscode\C#ParallelProgramming _CODE\CH11PerformanceLibrary\Listing11_4\obj\x86\Debug\Listing11_4.exe
+E:\vscode\C#ParallelProgramming _CODE\CH11PerformanceLibrary\Listing11_4\obj\x86\Debug\Listing11_4.pdb

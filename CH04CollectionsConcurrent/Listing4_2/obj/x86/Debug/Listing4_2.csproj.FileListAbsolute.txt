@@ -1,0 +1,10 @@
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_2\Listing4_2\bin\Debug\Listing4_2.exe
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_2\Listing4_2\bin\Debug\Listing4_2.pdb
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_2\Listing4_2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_2\Listing4_2\obj\x86\Debug\Listing4_2.exe
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_2\Listing4_2\obj\x86\Debug\Listing4_2.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_2\Listing4_2\obj\x86\Debug\Listing4_2.exe
+C:\Wrox\495995_CODE\CH04\Listing4_2\Listing4_2\obj\x86\Debug\Listing4_2.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_2\Listing4_2\bin\Debug\Listing4_2.exe
+C:\Wrox\495995_CODE\CH04\Listing4_2\Listing4_2\bin\Debug\Listing4_2.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_2\Listing4_2\obj\x86\Debug\ResolveAssemblyReference.cache

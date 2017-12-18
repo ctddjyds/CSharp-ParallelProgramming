@@ -1,0 +1,10 @@
+C:\ParallelProgramming\Listing5_4\Listing5_4\bin\Debug\Listing5_4.exe
+C:\ParallelProgramming\Listing5_4\Listing5_4\bin\Debug\Listing5_4.pdb
+C:\ParallelProgramming\Listing5_4\Listing5_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ParallelProgramming\Listing5_4\Listing5_4\obj\x86\Debug\Listing5_4.exe
+C:\ParallelProgramming\Listing5_4\Listing5_4\obj\x86\Debug\Listing5_4.pdb
+C:\Wrox\495995_CODE\CH05\Listing5_4\Listing5_4\obj\x86\Debug\Listing5_4.exe
+C:\Wrox\495995_CODE\CH05\Listing5_4\Listing5_4\obj\x86\Debug\Listing5_4.pdb
+C:\Wrox\495995_CODE\CH05\Listing5_4\Listing5_4\bin\Debug\Listing5_4.exe
+C:\Wrox\495995_CODE\CH05\Listing5_4\Listing5_4\bin\Debug\Listing5_4.pdb
+C:\Wrox\495995_CODE\CH05\Listing5_4\Listing5_4\obj\x86\Debug\ResolveAssemblyReference.cache

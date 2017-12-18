@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing6_1", "Listing6_1\Listing6_1.csproj", "{9570DF42-3C40-4437-9183-4464CA6056F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A63112A1-89AB-46C8-842F-B3A5977C569E}"
+	ProjectSection(SolutionItems) = preProject
+		Snippet6_11.txt = Snippet6_11.txt
+		Snippet6_9_Enhanced.txt = Snippet6_9_Enhanced.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet6_1", "Snippet6_1\Snippet6_1.csproj", "{53EA1C67-CFA1-47A7-BA36-A4848DAD25BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9570DF42-3C40-4437-9183-4464CA6056F2}.Debug|x86.ActiveCfg = Debug|x86
+		{9570DF42-3C40-4437-9183-4464CA6056F2}.Debug|x86.Build.0 = Debug|x86
+		{9570DF42-3C40-4437-9183-4464CA6056F2}.Release|x86.ActiveCfg = Release|x86
+		{9570DF42-3C40-4437-9183-4464CA6056F2}.Release|x86.Build.0 = Release|x86
+		{53EA1C67-CFA1-47A7-BA36-A4848DAD25BB}.Debug|x86.ActiveCfg = Debug|x86
+		{53EA1C67-CFA1-47A7-BA36-A4848DAD25BB}.Debug|x86.Build.0 = Debug|x86
+		{53EA1C67-CFA1-47A7-BA36-A4848DAD25BB}.Release|x86.ActiveCfg = Release|x86
+		{53EA1C67-CFA1-47A7-BA36-A4848DAD25BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Wrox\495995_CODE\CH10\Snippet10_2\Snippet10_2\bin\Release\Snippet10_2.exe.config
+C:\Wrox\495995_CODE\CH10\Snippet10_2\Snippet10_2\bin\Release\Snippet10_2.exe
+C:\Wrox\495995_CODE\CH10\Snippet10_2\Snippet10_2\bin\Release\Snippet10_2.pdb
+C:\Wrox\495995_CODE\CH10\Snippet10_2\Snippet10_2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH10\Snippet10_2\Snippet10_2\obj\x86\Release\Snippet10_2.exe
+C:\Wrox\495995_CODE\CH10\Snippet10_2\Snippet10_2\obj\x86\Release\Snippet10_2.pdb

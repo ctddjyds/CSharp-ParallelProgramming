@@ -1,0 +1,2 @@
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_10\Listing6_10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH06\Listing6_10\Listing6_10\obj\x86\Debug\ResolveAssemblyReference.cache

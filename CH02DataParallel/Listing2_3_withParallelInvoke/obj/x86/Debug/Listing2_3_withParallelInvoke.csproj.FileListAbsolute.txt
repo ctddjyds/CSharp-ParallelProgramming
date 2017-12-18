@@ -1,0 +1,5 @@
+C:\Wrox\495995_CODE\CH02\Listing2_3_withParallelInvoke\Listing2_3_withParallelInvoke\bin\Debug\Listing2_3_withParallelInvoke.exe
+C:\Wrox\495995_CODE\CH02\Listing2_3_withParallelInvoke\Listing2_3_withParallelInvoke\bin\Debug\Listing2_3_withParallelInvoke.pdb
+C:\Wrox\495995_CODE\CH02\Listing2_3_withParallelInvoke\Listing2_3_withParallelInvoke\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH02\Listing2_3_withParallelInvoke\Listing2_3_withParallelInvoke\obj\x86\Debug\Listing2_3_withParallelInvoke.exe
+C:\Wrox\495995_CODE\CH02\Listing2_3_withParallelInvoke\Listing2_3_withParallelInvoke\obj\x86\Debug\Listing2_3_withParallelInvoke.pdb

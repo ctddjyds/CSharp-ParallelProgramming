@@ -1,0 +1,18 @@
+﻿<Window x:Class="Snippet9_10.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Performing Concurrent Downloads" Height="350" Width="525">
+    <Grid>
+        <Button Content="Start Downloading Files" 
+                Height="46" HorizontalAlignment="Left" 
+                Margin="12,12,0,0" Name="butDownloadFiles" 
+                VerticalAlignment="Top" Width="225" 
+                Click="butDownloadFiles_Click" />
+        <ListBox Margin="12,64,15,12" Name="lstStatus" />
+        <Button Content="Cancel Downloads" Height="46" 
+                HorizontalAlignment="Left" Margin="325,12,0,0" 
+                Name="butCancel" VerticalAlignment="Top" 
+                Width="166" Click="butCancel_Click" 
+                IsEnabled="False" />
+    </Grid>
+</Window>

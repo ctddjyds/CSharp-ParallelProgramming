@@ -1,0 +1,10 @@
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Snippet6_3\Snippet6_3\bin\Debug\Snippet6_3.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Snippet6_3\Snippet6_3\bin\Debug\Snippet6_3.pdb
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Snippet6_3\Snippet6_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Snippet6_3\Snippet6_3\obj\x86\Debug\Snippet6_3.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Snippet6_3\Snippet6_3\obj\x86\Debug\Snippet6_3.pdb
+C:\Wrox\495995_CODE\CH06\Snippet6_3\Snippet6_3\obj\x86\Debug\Snippet6_3.exe
+C:\Wrox\495995_CODE\CH06\Snippet6_3\Snippet6_3\obj\x86\Debug\Snippet6_3.pdb
+C:\Wrox\495995_CODE\CH06\Snippet6_3\Snippet6_3\bin\Debug\Snippet6_3.exe
+C:\Wrox\495995_CODE\CH06\Snippet6_3\Snippet6_3\bin\Debug\Snippet6_3.pdb
+C:\Wrox\495995_CODE\CH06\Snippet6_3\Snippet6_3\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+int maxDegree =
+	(processorCount % 2 == 0) ? (processorCount / 2) :
+	 ((processorCount / 2) + 1)

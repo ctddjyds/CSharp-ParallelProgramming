@@ -1,0 +1,3 @@
+var t10 = t9.ContinueWith(
+	(t) => TaskMethod10(t),
+	TaskContinuationOptions.NotOnCanceled);

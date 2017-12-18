@@ -1,0 +1,5 @@
+C:\Wrox\495995_CODE\CH10\Listing10_7\Listing10_7\bin\Release\Listing10_7.exe
+C:\Wrox\495995_CODE\CH10\Listing10_7\Listing10_7\bin\Release\Listing10_7.pdb
+C:\Wrox\495995_CODE\CH10\Listing10_7\Listing10_7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH10\Listing10_7\Listing10_7\obj\x86\Release\Listing10_7.exe
+C:\Wrox\495995_CODE\CH10\Listing10_7\Listing10_7\obj\x86\Release\Listing10_7.pdb

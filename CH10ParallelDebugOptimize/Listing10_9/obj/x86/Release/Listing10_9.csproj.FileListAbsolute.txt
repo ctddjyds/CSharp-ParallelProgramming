@@ -1,0 +1,13 @@
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\MainWindow.baml
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\MainWindow.g.cs
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\App.g.cs
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\Listing10_9_MarkupCompile.cache
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\Listing10_9.g.resources
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\Listing10_9.Properties.Resources.resources
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\bin\Release\Listing10_9.exe
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\bin\Release\Listing10_9.pdb
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\Listing10_9.exe
+C:\Wrox\495995_CODE\CH10\Listing10_9\Listing10_9\obj\x86\Release\Listing10_9.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_5\Listing6_5\bin\Release\Listing6_5.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_5\Listing6_5\bin\Release\Listing6_5.pdb
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_5\Listing6_5\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_5\Listing6_5\obj\x86\Release\Listing6_5.exe
+C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Listing6_5\Listing6_5\obj\x86\Release\Listing6_5.pdb

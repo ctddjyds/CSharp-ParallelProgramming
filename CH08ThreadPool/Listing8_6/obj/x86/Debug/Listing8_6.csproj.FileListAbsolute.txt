@@ -1,0 +1,13 @@
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\MainWindow.baml
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\MainWindow.g.cs
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\App.g.cs
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\Listing8_6_MarkupCompile.cache
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\Listing8_6.g.resources
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\Listing8_6.Properties.Resources.resources
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\bin\Debug\Listing8_6.exe
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\bin\Debug\Listing8_6.pdb
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\Listing8_6.exe
+C:\Wrox\495995_CODE\CH08\Listing8_6\Listing8_6\obj\x86\Debug\Listing8_6.pdb

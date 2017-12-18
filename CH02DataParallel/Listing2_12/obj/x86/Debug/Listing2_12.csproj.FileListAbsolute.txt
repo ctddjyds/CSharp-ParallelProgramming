@@ -1,0 +1,5 @@
+C:\Wrox\495995_CODE\CH02\Listing2_12\Listing2_12\bin\Debug\Listing2_12.exe
+C:\Wrox\495995_CODE\CH02\Listing2_12\Listing2_12\bin\Debug\Listing2_12.pdb
+C:\Wrox\495995_CODE\CH02\Listing2_12\Listing2_12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH02\Listing2_12\Listing2_12\obj\x86\Debug\Listing2_12.exe
+C:\Wrox\495995_CODE\CH02\Listing2_12\Listing2_12\obj\x86\Debug\Listing2_12.pdb

@@ -1,0 +1,5 @@
+C:\Wrox\495995_CODE\CH05\Snippet5_11\Snippet5_11\bin\Debug\Snippet5_11.exe
+C:\Wrox\495995_CODE\CH05\Snippet5_11\Snippet5_11\bin\Debug\Snippet5_11.pdb
+C:\Wrox\495995_CODE\CH05\Snippet5_11\Snippet5_11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH05\Snippet5_11\Snippet5_11\obj\x86\Debug\Snippet5_11.exe
+C:\Wrox\495995_CODE\CH05\Snippet5_11\Snippet5_11\obj\x86\Debug\Snippet5_11.pdb

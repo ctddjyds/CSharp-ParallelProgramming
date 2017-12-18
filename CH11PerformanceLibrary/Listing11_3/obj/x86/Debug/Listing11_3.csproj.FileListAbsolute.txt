@@ -1,0 +1,13 @@
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\bin\Debug\Listing11_3.exe
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\bin\Debug\Listing11_3.pdb
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\MainWindow.baml
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\MainWindow.g.cs
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\App.g.cs
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\Listing11_3_MarkupCompile.cache
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\Listing11_3.g.resources
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\Listing11_3.Properties.Resources.resources
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\Listing11_3.exe
+C:\Wrox\495995_CODE\CH04\Listing11_3\Listing11_3\obj\x86\Debug\Listing11_3.pdb

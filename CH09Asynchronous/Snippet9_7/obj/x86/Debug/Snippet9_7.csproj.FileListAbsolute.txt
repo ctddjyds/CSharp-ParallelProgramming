@@ -1,0 +1,13 @@
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\bin\Debug\Snippet9_7.exe
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\bin\Debug\Snippet9_7.pdb
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\MainWindow.baml
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\MainWindow.g.cs
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\App.g.cs
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\Snippet9_7_MarkupCompile.cache
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\Snippet9_7.g.resources
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\Snippet9_7.Properties.Resources.resources
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\Snippet9_7.exe
+C:\Wrox\495995_CODE\CH09\Snippet9_7\Snippet9_7\obj\x86\Debug\Snippet9_7.pdb

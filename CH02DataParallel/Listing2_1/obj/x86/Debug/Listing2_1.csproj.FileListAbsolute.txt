@@ -1,0 +1,18 @@
+C:\Wrox\495995_CODE\CH02\Listing2_1\Listing2_1\bin\Debug\Listing2_1.exe
+C:\Wrox\495995_CODE\CH02\Listing2_1\Listing2_1\bin\Debug\Listing2_1.pdb
+C:\Wrox\495995_CODE\CH02\Listing2_1\Listing2_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH02\Listing2_1\Listing2_1\obj\x86\Debug\Listing2_1.exe
+C:\Wrox\495995_CODE\CH02\Listing2_1\Listing2_1\obj\x86\Debug\Listing2_1.pdb
+E:\C#\C#并行编程高级教程_CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.exe
+E:\C#\C#并行编程高级教程_CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.pdb
+E:\C#\C#并行编程高级教程_CODE\CH02\Listing2_1\bin\Debug\Listing2_1.exe
+E:\C#\C#并行编程高级教程_CODE\CH02\Listing2_1\bin\Debug\Listing2_1.pdb
+E:\C#\C#并行编程高级教程_CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.csprojResolveAssemblyReference.cache
+D:\C#\C#并行编程高级教程_CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.exe
+D:\C#\C#并行编程高级教程_CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.pdb
+D:\VSProjectsCode\C#并行编程高级教程_CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.exe
+D:\VSProjectsCode\C#并行编程高级教程_CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.pdb
+D:\VSProjectsCode\C#ParallelProgramming _CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.exe
+D:\VSProjectsCode\C#ParallelProgramming _CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.pdb
+E:\vscode\C#ParallelProgramming _CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.exe
+E:\vscode\C#ParallelProgramming _CODE\CH02\Listing2_1\obj\x86\Debug\Listing2_1.pdb

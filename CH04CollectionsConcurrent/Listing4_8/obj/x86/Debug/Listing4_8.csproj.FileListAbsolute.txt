@@ -1,0 +1,15 @@
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_8\Listing4_8\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_8\Listing4_8\bin\Debug\Listing4_8.exe
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_8\Listing4_8\bin\Debug\Listing4_8.pdb
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_8\Listing4_8\obj\x86\Debug\Listing4_8.exe
+c:\users\gaston\documents\visual studio 2010\Projects\Listing4_8\Listing4_8\obj\x86\Debug\Listing4_8.pdb
+C:\ParallelProgramming\Listing4_8\Listing4_8\obj\x86\Debug\Listing4_8.exe
+C:\ParallelProgramming\Listing4_8\Listing4_8\obj\x86\Debug\Listing4_8.pdb
+C:\ParallelProgramming\Listing4_8\Listing4_8\bin\Debug\Listing4_8.exe
+C:\ParallelProgramming\Listing4_8\Listing4_8\bin\Debug\Listing4_8.pdb
+C:\ParallelProgramming\Listing4_8\Listing4_8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wrox\495995_CODE\CH04\Listing4_8\Listing4_8\obj\x86\Debug\Listing4_8.exe
+C:\Wrox\495995_CODE\CH04\Listing4_8\Listing4_8\obj\x86\Debug\Listing4_8.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_8\Listing4_8\bin\Debug\Listing4_8.exe
+C:\Wrox\495995_CODE\CH04\Listing4_8\Listing4_8\bin\Debug\Listing4_8.pdb
+C:\Wrox\495995_CODE\CH04\Listing4_8\Listing4_8\obj\x86\Debug\ResolveAssemblyReference.cache
